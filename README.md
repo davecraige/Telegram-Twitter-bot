@@ -14,9 +14,9 @@ https://nodejs.org/en/
 
 # To begin to build the bot:
 
-npm docs node-telegram-bot-api -- pop up the docs in the browser
+`npm docs node-telegram-bot-api` -- pop up the docs in the browser
 
-npm install node-telegram-bot-api
+`npm install node-telegram-bot-api`
 
 
 
