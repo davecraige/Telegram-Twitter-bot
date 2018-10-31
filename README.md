@@ -5,7 +5,8 @@ Let's build a Twitter bot for Telegram.  All of your main public tweets will be 
 
 ### Mac users we will start with NodeJS
 
-Here is a great guide on how to get NodeJS installed.  https://www.codementor.io/mercurial/how-to-install-node-js-on-macos-sierra-mphz41ekk
+Here is a great guide on how to get NodeJS installed.  
+✔️ https://www.codementor.io/mercurial/how-to-install-node-js-on-macos-sierra-mphz41ekk
 
 
 
