@@ -3,7 +3,7 @@
 Let's build a Twitter bot for Telegram.  All of your main public tweets will be imported into your Telegram group! For an example of this in action check out the great work that Pieter Levels.io has done with his group. https://t.co/SVSZa2qfac
 
 
-## We will start with NodeJS
+## Mac users we will start with NodeJS
 
 one option: `brew search node`
 
@@ -26,4 +26,9 @@ and a third https://nodejs.org/en/
 Message `@botfather` on Telegram
 
 More info here: https://core.telegram.org/bots#6-botfather
+
+
+
+## Windows users:
+Install node with chocolatey `choco install nodejs`
 
