@@ -5,11 +5,15 @@ Let's build a Twitter bot for Telegram.  All of your main public tweets will be 
 
 ## Mac users we will start with NodeJS
 
-one option: `brew search node`
+Different options:
 
-another https://github.com/creationix/nvm
+`apt install nodejs -y`
 
-and a third https://nodejs.org/en/
+`brew search node`
+
+https://github.com/creationix/nvm
+
+https://nodejs.org/en/
 
 
 ## To begin to build the bot:
